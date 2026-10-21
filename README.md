@@ -33,14 +33,6 @@ Leve, rápido e com interface simples, roda direto no computador, sem instalaç�
 
 > 💡 Salve um print do programa em `docs/screenshot.png` para ele aparecer aqui.
 
-## 🛠️ Tecnologias
-
-| Tecnologia | Uso |
-|---|---|
-| 🦀 **Rust** | Lógica e acesso ao sistema de arquivos |
-| 🪟 **Tauri 2** | Aplicativo desktop |
-| 🌐 **HTML / CSS / JavaScript** | Interface |
-
 ## 🚀 Como usar
 
 1. Acesse a aba [**Releases**](../../releases) deste repositório.
