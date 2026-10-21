@@ -27,10 +27,6 @@ Leve, rápido e com interface simples, roda direto no computador, sem instalaç�
 
 ## 🖼️ Screenshots
 
-<div align="center">
-  <img src="docs/screenshot.png" alt="Tela principal" width="700" />
-</div>
-
 <img width="1436" height="859" alt="print" src="https://github.com/user-attachments/assets/22d694af-7a31-4c4d-a72b-276ab2810fb6" />
 
 ## 🚀 Como usar
