@@ -41,7 +41,7 @@ Leve, rápido e com interface simples, roda direto no computador, sem instalaç�
 
 Desenvolvido por **Natan Sousa**
 
-[![GitHub](https://img.shields.io/badge/GitHub-natan7z-181717?style=for-the-badge&logo=github)](https://github.com/natan7z)
+[![GitHub](https://img.shields.io/badge/GitHub-natan7zz-181717?style=for-the-badge&logo=github)](https://github.com/natan7zz)
 
 ---
 
